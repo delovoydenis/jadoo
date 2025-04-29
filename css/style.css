@@ -1256,7 +1256,7 @@ body::after {
       justify-content: space-around;
   -webkit-column-gap: 1.875rem;
      -moz-column-gap: 1.875rem;
-          column-gap: 1.875rem;
+          column-gap: 1.9rem;
   row-gap: 1.5625rem;
   -ms-flex-wrap: wrap;
       flex-wrap: wrap;
